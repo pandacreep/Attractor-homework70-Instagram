@@ -1,0 +1,38 @@
+.container_my {
+    max-width: 1280px;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+
+th, td {
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+.as-button {
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #007bff;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    font-size: 11px;
+}
+
+.as-button:hover {
+    color: white;
+}
+
+.as-link {
+    text-decoration: none;
+    color: black;
+}
+
+.as-link:hover {
+    color: black;
+}
